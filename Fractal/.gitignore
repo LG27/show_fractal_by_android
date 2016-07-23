@@ -1,0 +1,10 @@
+.gradle
+/local.properties
+/.idea
+/build
+Fractal.iml
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
